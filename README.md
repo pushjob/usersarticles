@@ -33,5 +33,5 @@
 
 # TODO:
 1. move configuration variables from classes to configuration files and create configuration factory class 
-2. create test: unit, functional(cucumber)
+2. create tests: unit, functional(cucumber)
 3. report class also could return df with ignored records, like it done in cleaner 

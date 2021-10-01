@@ -3,7 +3,7 @@ from logger import logger
 
 date_conversion_format = '<134>%Y-%m-%dT%H:%M:%SZ'
 # available columns for the report: user_id,a_first,c_first,a_last,c_last,is_same_article,is_same_wiki
-report_columns = ["user_id", "is_same_article", "is_same_article"]
+report_columns = ["user_id", "is_same_article", "is_same_wiki"]
 input_columns = ["user_id", "timestamp", "a", "c"]
 
 
